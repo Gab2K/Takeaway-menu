@@ -1,6 +1,7 @@
 # Takeaway-menu
 
 C++ Object Oriented simplified take-away food ordering system.
+Interactable via a command line interface.
 
 This project demonstrates advanced programming techniques such as:
 - Classes
