@@ -2,7 +2,7 @@
 
 C++ Object Oriented simplified take-away food ordering system.
 
-This project demonstrates advanced programming techniques:
+This project demonstrates advanced programming techniques such as:
 - Classes
 - Functions
 - Constructors
